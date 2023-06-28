@@ -1,0 +1,50 @@
+{
+    "user": {
+        "account_nr": "",
+        "balance": 0,
+        "currency": "",
+        "creation_date": "",
+        "bank_name": "",
+        "pin": ""
+    },
+    "Mihai": {
+        "account_nr": "X0PGOH8YNMIYJJSJ8NKV",
+        "balance": 900123.0,
+        "currency": "RON",
+        "creation_date": "2023-06-27 21:03:42",
+        "bank_name": "ING",
+        "pin": 1234
+    },
+    "Vladimir si Titel": {
+        "account_nr": "DPGI9PZ8XLONACFMDL1U",
+        "balance": 300400500.0,
+        "currency": "RON",
+        "creation_date": "2023-06-27 21:53:10",
+        "bank_name": "ING",
+        "pin": 3666
+    },
+    "Vladimir": {
+        "account_nr": "GOMJP2P9WR6D0WXH23B2",
+        "balance": 1756.0,
+        "currency": "RON",
+        "creation_date": "2023-06-27 21:55:58",
+        "bank_name": "ING",
+        "pin": 7510
+    },
+    "cristi": {
+        "account_nr": "W3M1HQD25VLW15IN64OC",
+        "balance": 330.0,
+        "currency": "RON",
+        "creation_date": "2023-06-28 03:49:16",
+        "bank_name": "ING",
+        "pin": 7661
+    },
+    "kyoshin": {
+        "account_nr": "QMWZ05VE0ETSHSI45H30",
+        "balance": 17.0,
+        "currency": "RON",
+        "creation_date": "2023-06-28 19:25:51",
+        "bank_name": "ING",
+        "pin": 2222
+    }
+}
